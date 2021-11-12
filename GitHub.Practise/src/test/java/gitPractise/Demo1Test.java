@@ -2,7 +2,7 @@ package gitPractise;
 
 import org.testng.annotations.Test;
 
-public class Demo1 {
+public class Demo1Test {
 
 	@Test
 	public void creat_test()
